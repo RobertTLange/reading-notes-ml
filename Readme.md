@@ -28,6 +28,9 @@ This repository contains simple reading notes, thoughts, questions and summaries
 * Goodfellow et al. (2016) - Ch. 6: Deep Feedforward Networks
 * Gal, Ghahramani (2015) - Dropout as a Bayesian Approximation: Insights and Applications
 
+**2017-08**
+
+* Gal & Ghahramani (2016) - On Modern Deep Learning and Variational Inference
 
 
 ## Optimization
@@ -48,6 +51,9 @@ This repository contains simple reading notes, thoughts, questions and summaries
 		
 ## Reinforcement Learning
 
+**2017-08**
+
+* Barto & Sutton (2016 - draft) - Ch. 1: The Reinforcement Learning Problem
 
 ## General Machine Learning
 
