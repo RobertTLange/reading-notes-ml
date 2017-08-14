@@ -1,7 +1,7 @@
 # Reading Notes 2017
 # Author: Robert T. Lange
 
-This repository contains simple reading notes, thoughts, questions and summaries of the papers/book chapters, which I ([Robert T. Lange](www.rob-lange.com)) have read in the second half of 2017. This includes the summer break, where I attended a Free-Energy Principle summer school, the DS^3 Summer School as well as the European Summer School in Information Retrieval (ESSIR) and the first semester of the Computing (ML) Master's at Imperial College London. The documents are grouped by overarching topic. I hope, that this way you are able to follow my current interests and research progress.
+This repository contains simple reading notes, thoughts, questions and summaries of the papers/book chapters, which I ([Robert T. Lange](www.rob-lange.com)) have read in the second half of 2017. This includes the summer break, where I attended a Free-Energy Principle summer school, the DS^3 Summer School as well as the European Summer School in Information Retrieval (ESSIR) and the first semester of the Computing (ML) Master's at Imperial College London. The documents are grouped by overarching topic. First of all I hope that this way I am able to structure my knowledge gains and have a quick read to remind myself of keypoints. Second I hope that you are able to follow my current interests and research progress.
 
 
 ## Free-Energy Principle
@@ -55,11 +55,4 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 * Barto & Sutton (2016 - draft) - Ch. 1: The Reinforcement Learning Problem
 
-## General Machine Learning
-
-
-## Randomized Numerical Linear Algebra (RandNLA)
-
-
-## Probabilistic Numerics
 
