@@ -21,6 +21,14 @@ General methodological introduction to the variational Bayes framework for the F
 
 * Chapter 2:
 	* Review Gaussian Trafo theorems and proofs (Bishop Ch. 2)
+	* Completing the square theorem - allows identification of parameters of Gaussian density based on quadratic form
+	* Gamma distribution and different parametrizations - exponential distribution
+	* Jacobian: Matrix of all first-order partial derivative of a vector-valued function
+	* Linear approx of vector fields - Use Jacobian for the first derivative analog of the Taylor series approximation
+
+* Chapter 3:
+	* Bayesian Inference: Identification of Log model evidence and posterior distribution for a Generative Model
+	* Bayesian Parameter Estimation: Not only interested in single point estimate but full probability distribution over the possible parameter values. The conditional distribution is inherent in the specification of the generative model and is thus not created once the data is observed!
 	
 
 #### Questions: 
