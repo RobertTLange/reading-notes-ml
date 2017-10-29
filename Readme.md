@@ -70,7 +70,7 @@ This repository contains simple reading notes, thoughts, questions and summaries
 * [ ] Hassabis (2017) - Neuroscience-Inspired Artificial Intelligence
 
 
-## Machine Learning Reading ICL
+## Machine Learning Reading Group ICL
 
 **2017-10**
 
