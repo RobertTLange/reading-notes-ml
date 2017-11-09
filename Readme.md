@@ -77,3 +77,7 @@ This repository contains simple reading notes, thoughts, questions and summaries
 * [x] #1: Daume (2004) - From Zero to Reproducing Kernel Hilbert Spaces in Twelve Pages or Less
 * [x] #2: Zhang et al (2017) - Theory of Deep Learning III: Generalization Properties of SGD
 * [x] #3: Marco et al (2017) - Virtual vs. Real: Trading Off Simulations and Physical Experiments in Reinforcement Learning with Bayesian Optimization
+
+**2017-11**
+
+* [x] #5: Lee et al (2017) - Deep Neural Networks as Gaussian Processes
