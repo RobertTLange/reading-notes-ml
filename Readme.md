@@ -1,10 +1,24 @@
-# Reading Notes 2017
+# Reading Notes 2017/2018
 # Author: Robert T. Lange
 
 This repository contains simple reading notes, thoughts, questions and summaries of the papers/book chapters, which I ([Robert T. Lange](www.rob-lange.com)) have read in the second half of 2017. This includes the summer break, where I attended a Free-Energy Principle summer school organised by Prof. Blankenburg and Prof. Ostwald (both BCCN and FU Berlin), the DS^3 Summer School as well as the European Summer School in Information Retrieval (ESSIR) and the first term of the Computing (ML) Master's at Imperial College London. The documents are grouped by overarching topic. First of all I hope that this way I am able to structure my knowledge gains and have a quick read to remind myself of keypoints. Second I hope that you are able to follow my current interests and research progress. 
 
 **Notes:** If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 
+
+## Hierarchical Reinforcement Learning
+
+**2018-05**
+
+* [x]	Frans et al (2018) - Meta Learning Shared Hierarchies
+* [x]	Florensa et al (2017) - Stochastic Neural Networks for Hierarchical Reinforcement Learning
+
+
+## Formal Grammars and Grammatical Inference
+
+**2018-05**
+
+* [x] Schoenhense & Faisal (2017) - Data-efficient inference of hierarchical structure in sequential data by information-greedy grammar inference
 
 ## Free-Energy Principle
 
