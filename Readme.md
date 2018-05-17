@@ -14,11 +14,12 @@ This repository contains simple reading notes, thoughts, questions and summaries
 * [x]	Florensa et al (2017) - Stochastic Neural Networks for Hierarchical Reinforcement Learning
 
 
-## Formal Grammars and Grammatical Inference
+## Formal Grammars, Grammatical Inference and Surprisal
 
 **2018-05**
 
 * [x] Schoenhense & Faisal (2017) - Data-efficient inference of hierarchical structure in sequential data by information-greedy grammar inference
+* [x] Hale (2001) - A Probabilistic Earley Parser as a Psycholinguistic Model
 
 ## Free-Energy Principle
 
@@ -75,6 +76,9 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 * [ ] Barto & Sutton (2016 - draft) - Ch. 1: The Reinforcement Learning Problem
 
+**2018-05**
+
+* [ ] Li (2017) - Deep Reinforcement Learning: An Overview
 
 ## Real Intelligence
 
