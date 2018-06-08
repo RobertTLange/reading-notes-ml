@@ -10,6 +10,7 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 **2018-06**
 
+* [x] Stolle and Barto (2002) - Learning Options in Reinforcement Learning
 * [x] McGovern and Barto (2001) - Automatic Discovery of Subgoals in Reinforcement Learning using Diverse Density
 
 **2018-05**
