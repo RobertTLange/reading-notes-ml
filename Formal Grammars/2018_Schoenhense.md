@@ -2,7 +2,7 @@
 
 # Author: Schoenhense and Faisal
 
-#### General Content: Combat "overfitting" of greedy grammatical inference algos such as sequitur by introducing decision rule based on  Shannon entropy decrease. This way they introduce form of regularizer.         Show that IGGI does not fit noise when sequence is generated without any underlying hierarchical rules.
+#### General Content: Combat "overfitting" of greedy grammatical inference algos such as sequitur by introducing decision rule based on  Shannon entropy decrease. This way they introduce form of regularizer. Show that IGGI does not fit noise when sequence is generated without any underlying hierarchical rules.
 
 
 #### Keypoints: 

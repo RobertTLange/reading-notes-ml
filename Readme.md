@@ -8,6 +8,10 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 ## Hierarchical Reinforcement Learning
 
+**2018-06**
+
+* [x] McGovern and Barto (2001) - Automatic Discovery of Subgoals in Reinforcement Learning using Diverse Density
+
 **2018-05**
 
 * [x]	Frans et al (2018) - Meta Learning Shared Hierarchies
@@ -79,6 +83,8 @@ This repository contains simple reading notes, thoughts, questions and summaries
 **2018-05**
 
 * [ ] Li (2017) - Deep Reinforcement Learning: An Overview
+* [ ] Arulkumaran (2017) - A Brief Survey of Deep Reinforcement Learning
+* [x] Dayan (1993b) - Improving Generalisation for TemporalDifference Learning: The Successor Representation
 
 ## Real Intelligence
 
