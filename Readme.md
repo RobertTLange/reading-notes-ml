@@ -26,6 +26,24 @@ This repository contains simple reading notes, thoughts, questions and summaries
 * [x] Schoenhense & Faisal (2017) - Data-efficient inference of hierarchical structure in sequential data by information-greedy grammar inference
 * [x] Hale (2001) - A Probabilistic Earley Parser as a Psycholinguistic Model
 
+
+## (Deep) Reinforcement Learning
+
+**2018-06**
+
+* [x] Choshen, Fox, Loewenstein (2018) - DORA - Directed Outreaching Reinforcement Action-Selection
+
+**2018-05**
+
+* [ ] Li (2017) - Deep Reinforcement Learning: An Overview
+* [ ] Arulkumaran (2017) - A Brief Survey of Deep Reinforcement Learning
+* [x] Dayan (1993b) - Improving Generalisation for TemporalDifference Learning: The Successor Representation
+
+**2017-08**
+
+* [ ] Barto & Sutton (2016 - draft) - Ch. 1: The Reinforcement Learning Problem
+
+
 ## Free-Energy Principle
 
 **2017-07**
@@ -73,19 +91,6 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 * [ ] Shahriari et al. (2015) - Taking the Human Out of the Loop: A Review of Bayesian Optimization
 
-
-		
-## (Deep) Reinforcement Learning
-
-**2017-08**
-
-* [ ] Barto & Sutton (2016 - draft) - Ch. 1: The Reinforcement Learning Problem
-
-**2018-05**
-
-* [ ] Li (2017) - Deep Reinforcement Learning: An Overview
-* [ ] Arulkumaran (2017) - A Brief Survey of Deep Reinforcement Learning
-* [x] Dayan (1993b) - Improving Generalisation for TemporalDifference Learning: The Successor Representation
 
 ## Real Intelligence
 
