@@ -31,6 +31,8 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 **2018-06**
 
+* [x] Rusu et al (2016) - Policy Distillation
+* [x] Andrychowicz et al (2018) - Hindsight Experience Replay
 * [x] Choshen, Fox, Loewenstein (2018) - DORA - Directed Outreaching Reinforcement Action-Selection
 
 **2018-05**
