@@ -10,6 +10,7 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 **2018-06**
 
+* [x] Bakker and Schmidhuber (2004) - Hierarchical Reinforcement Learning Based on Subgoal Discovery and Subpolicy Specialization
 * [x] Mannor et al (2004) - Dynamic Abstraction in Reinforcement Learning via Clustering
 * [x] Menache et al (2002) - Q-Cut - Dynamic Discovery of Sub-Goals in Reinforcement Learning
 * [x] Stolle and Barto (2002) - Learning Options in Reinforcement Learning
