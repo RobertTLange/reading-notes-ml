@@ -1,15 +1,22 @@
 # Reading Notes 2017/2018
 # Author: Robert T. Lange
 
-This repository contains simple reading notes, thoughts, questions and summaries of the papers/book chapters, which I ([Robert T. Lange](www.rob-lange.com)) have read in the second half of 2017. This includes the summer break, where I attended a Free-Energy Principle summer school organised by Prof. Blankenburg and Prof. Ostwald (both BCCN and FU Berlin), the DS^3 Summer School as well as the European Summer School in Information Retrieval (ESSIR) and the first term of the Computing (ML) Master's at Imperial College London. The documents are grouped by overarching topic. First of all I hope that this way I am able to structure my knowledge gains and have a quick read to remind myself of keypoints. Second I hope that you are able to follow my current interests and research progress. 
+This repository contains simple reading notes, thoughts, questions and summaries of the papers/book chapters, which I ([Robert T. Lange](www.rob-lange.com)) have read in the second half of 2017 and 2018. This includes the summer break, where I attended a Free-Energy Principle summer school organised by Prof. Blankenburg and Prof. Ostwald (both BCCN and FU Berlin), the DS^3 Summer School as well as the European Summer School in Information Retrieval (ESSIR) and the time of my Computing (ML) Master's at Imperial College London.
 
-**Notes:** If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
+The documents are grouped by overarching topic. First of all I hope that this way I am able to structure my knowledge gains and have a quick read to remind myself of keypoints. Second, I hope that you are able to follow my current interests and research progress. 
+
+**Notes:**
+
+1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
+2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
 
 ## Hierarchical Reinforcement Learning
 
 **2018-06**
 
+* [ ] Yao et al (2014) - Universal Option Models
+* [ ] Levy et al (2018) - Hierarchical Reinforcement Learning with Hindsight
 * [x] Bakker and Schmidhuber (2004) - Hierarchical Reinforcement Learning Based on Subgoal Discovery and Subpolicy Specialization
 * [x] Mannor et al (2004) - Dynamic Abstraction in Reinforcement Learning via Clustering
 * [x] Menache et al (2002) - Q-Cut - Dynamic Discovery of Sub-Goals in Reinforcement Learning
@@ -24,6 +31,10 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 ## Formal Grammars, Grammatical Inference and Surprisal
 
+**2018-06**
+
+* [ ] Stout et al (2018) - Grammars of action in human behavior and evolution
+
 **2018-05**
 
 * [x] Schoenhense & Faisal (2017) - Data-efficient inference of hierarchical structure in sequential data by information-greedy grammar inference
@@ -34,6 +45,7 @@ This repository contains simple reading notes, thoughts, questions and summaries
 
 **2018-06**
 
+* [x] Schaul et al (2015) - Universal Value Function Approximators 
 * [x] Rusu et al (2016) - Policy Distillation
 * [x] Andrychowicz et al (2018) - Hindsight Experience Replay
 * [x] Choshen, Fox, Loewenstein (2018) - DORA - Directed Outreaching Reinforcement Action-Selection
