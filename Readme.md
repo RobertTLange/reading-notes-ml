@@ -16,7 +16,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 **2018-06**
 
 * [ ] Yao et al (2014) - Universal Option Models
-* [ ] Levy et al (2018) - Hierarchical Reinforcement Learning with Hindsight
+* [x] Levy et al (2018) - Hierarchical Reinforcement Learning with Hindsight
 * [x] Bakker and Schmidhuber (2004) - Hierarchical Reinforcement Learning Based on Subgoal Discovery and Subpolicy Specialization
 * [x] Mannor et al (2004) - Dynamic Abstraction in Reinforcement Learning via Clustering
 * [x] Menache et al (2002) - Q-Cut - Dynamic Discovery of Sub-Goals in Reinforcement Learning
