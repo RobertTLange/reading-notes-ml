@@ -45,7 +45,8 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2018-06**
 
-* [x] Schaul et al (2015) - Universal Value Function Approximators 
+* [x] Schaul et al (2015) - Universal Value Function Approximators
+* [ ] Gershman and Daw (2017) - Reinforcement Learning and Episodic Memory in Humans and Animals: An Integrative Framework
 * [x] Rusu et al (2016) - Policy Distillation
 * [x] Andrychowicz et al (2018) - Hindsight Experience Replay
 * [x] Choshen, Fox, Loewenstein (2018) - DORA - Directed Outreaching Reinforcement Action-Selection
