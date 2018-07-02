@@ -3,7 +3,7 @@
 
 This repository contains simple reading notes, thoughts, questions and summaries of the papers/book chapters, which I ([Robert T. Lange](www.rob-lange.com)) have read in the second half of 2017 and 2018. This includes the summer break, where I attended a Free-Energy Principle summer school organised by Prof. Blankenburg and Prof. Ostwald (both BCCN and FU Berlin), the DS^3 Summer School as well as the European Summer School in Information Retrieval (ESSIR) and the time of my Computing (ML) Master's at Imperial College London.
 
-The documents are grouped by overarching topic. First of all I hope that this way I am able to structure my knowledge gains and have a quick read to remind myself of keypoints. Second, I hope that you are able to follow my current interests and research progress. 
+The documents are grouped by overarching topic. First of all I hope that this way I am able to structure my knowledge gains and have a quick read to remind myself of keypoints. Second, I hope that you are able to follow my current interests and research progress.
 
 **Notes:**
 
@@ -13,9 +13,14 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 ## Hierarchical Reinforcement Learning
 
+**2018-07**
+
+* [x] McGovern & Sutton (1998) - Macro-Actions in Reinforcement Learning: An Empiricial Analysis
+* [x] McGovern et al (1997) - Roles of Macro-Actions in Accelerating Reinforcement Learning
+
 **2018-06**
 
-* [ ] Yao et al (2014) - Universal Option Models
+* [x] Yao et al (2014) - Universal Option Models
 * [x] Levy et al (2018) - Hierarchical Reinforcement Learning with Hindsight
 * [x] Bakker and Schmidhuber (2004) - Hierarchical Reinforcement Learning Based on Subgoal Discovery and Subpolicy Specialization
 * [x] Mannor et al (2004) - Dynamic Abstraction in Reinforcement Learning via Clustering
@@ -37,6 +42,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2018-05**
 
+* [ ] Hale (2014) - Automaton theories of human sentence comprehension
 * [x] Schoenhense & Faisal (2017) - Data-efficient inference of hierarchical structure in sequential data by information-greedy grammar inference
 * [x] Hale (2001) - A Probabilistic Earley Parser as a Psycholinguistic Model
 
