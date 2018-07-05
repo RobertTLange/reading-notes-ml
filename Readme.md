@@ -36,6 +36,10 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 ## Formal Grammars, Grammatical Inference and Surprisal
 
+**2018-07**
+
+* [x] Siyari et al (2016) - Lexis: An Optimization Framework 
+
 **2018-06**
 
 * [ ] Stout et al (2018) - Grammars of action in human behavior and evolution
