@@ -11,7 +11,18 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
 
+** 2018-11**
+
+* [x] Foerster et al (2016) - Learning to Communicate with Deep MARL
+
 ## Hierarchical Reinforcement Learning
+
+**2018-08**
+
+* [ ] Pastra and Aloimonos (2012) - The minimalist grammar of action
+* [ ] Bacon et al (2017) - The Option-Critic Architecture
+* [ ] Daniel et al (2016) - Probabilistic inference for determining options in reinforcement learning
+* [ ] Smith et al (2018) - An Inference-Based Policy Gradient Method for Learning Options
 
 **2018-07**
 
@@ -38,7 +49,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2018-07**
 
-* [x] Siyari et al (2016) - Lexis: An Optimization Framework 
+* [x] Siyari et al (2016) - Lexis: An Optimization Framework
 
 **2018-06**
 

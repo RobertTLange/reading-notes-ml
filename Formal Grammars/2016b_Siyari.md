@@ -24,7 +24,7 @@ Propose algorithm that constructs an optimized hierarchical representation of a 
 
 * Lexis-DAG - $D(V,A)$ with 3 conditions:
   1. $v \in V$ represents string $S(v)$, $V_S$ sources, $V_T$ targets, $V_M$ intermediate nodes. $V = V_S \cup V_M \cup V_T$
-  2. Each node in $V_M \cup V_T$ represents a string that is the concatenation of substrings, $d_{in}(v)$: # incoming edges for v, $d_{out}(v): # outgoing edges for v
+  2. Each node in $V_M \cup V_T$ represents a string that is the concatenation of substrings, $d_{in}(v)$: # incoming edges for v, $d_{out}(v)$: # outgoing edges for v
   3. Lexis-DAG should only include intermediate nodes with 2 outgoing edges - re-used in at least two concatenation operations
 
 * Lexis Optimization Problem: Construct min-cost Lexis DAG for given alphabet S and targets T for given cost function:
