@@ -11,8 +11,9 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
 
-** 2018-11**
+**2018-11**
 
+* [ ] Strouse et al (2018) - Learning to Share and Hide Intentions using Info Regularization
 * [x] Foerster et al (2016) - Learning to Communicate with Deep MARL
 
 ## Hierarchical Reinforcement Learning
