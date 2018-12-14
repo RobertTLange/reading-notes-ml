@@ -10,13 +10,14 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
+## Hierarchical Reinforcement Learning
 
 **2018-11**
 
+* [ ] Garnelo et al (2018b) - Neural Processes
 * [ ] Strouse et al (2018) - Learning to Share and Hide Intentions using Info Regularization
 * [x] Foerster et al (2016) - Learning to Communicate with Deep MARL
 
-## Hierarchical Reinforcement Learning
 
 **2018-08**
 
