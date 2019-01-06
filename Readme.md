@@ -14,6 +14,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2018-12**
 
+* [x] Sacramento et al (2018) - Dendritic cortical microcircuits approximate the backpropagation algorithm
 * [x] Bartunov et al (2018) - Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures
 * [x] Lillicrap et al (2016) - Random synaptic feedback weights support error backpropagation for deep learning
 
