@@ -10,6 +10,18 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
+## Multi-Agent RL
+
+**2018-01**
+
+* [ ] Hausknecht and Stone (2015) - Deep Recurrent Q-Learning for POMDPs
+
+**2018-11**
+
+* [x] Strouse et al (2018) - Learning to Share and Hide Intentions using Info Regularization
+* [x] Foerster et al (2016) - Learning to Communicate with Deep MARL
+
+
 ## Biologically-Plausible Deep Learning
 
 **2018-12**
@@ -24,12 +36,6 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 * [x] Garnelo et al (2018b) - Neural Processes
 
 ## Hierarchical Reinforcement Learning
-
-**2018-11**
-
-* [ ] Strouse et al (2018) - Learning to Share and Hide Intentions using Info Regularization
-* [x] Foerster et al (2016) - Learning to Communicate with Deep MARL
-
 
 **2018-08**
 
