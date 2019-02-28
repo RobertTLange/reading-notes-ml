@@ -14,7 +14,8 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2018-01**
 
-* [ ] Hausknecht and Stone (2015) - Deep Recurrent Q-Learning for POMDPs
+* [ ] Das et al (2019) - TarMAC: Targeted Multi-Agent Communication
+* [x] Hausknecht and Stone (2015) - Deep Recurrent Q-Learning for POMDPs
 
 **2018-11**
 
@@ -117,6 +118,10 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 
 ## Variational Inference
+
+**2019-02**
+
+* [ ] Zhang et al. (2018) - Advances in Variational Inference
 
 **2017-07**
 
