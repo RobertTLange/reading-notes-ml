@@ -121,7 +121,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2019-02**
 
-* [ ] Zhang et al. (2018) - Advances in Variational Inference
+* [x] Zhang et al. (2018) - Advances in Variational Inference
 
 **2017-07**
 
