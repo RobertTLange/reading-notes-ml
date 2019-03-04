@@ -25,6 +25,9 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 ## Biologically-Plausible Deep Learning
 
+**2019-02**
+* [x] Whittington & Bogacz (2019) - Theories of Error Propagation in the Brain 
+
 **2018-12**
 
 * [x] Sacramento et al (2018) - Dendritic cortical microcircuits approximate the backpropagation algorithm
