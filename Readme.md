@@ -26,7 +26,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 ## Biologically-Plausible Deep Learning
 
 **2019-02**
-* [x] Whittington & Bogacz (2019) - Theories of Error Propagation in the Brain 
+* [x] Whittington & Bogacz (2019) - Theories of Error Propagation in the Brain
 
 **2018-12**
 
@@ -133,6 +133,10 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 
 ## Deep Learning
+
+**2019-03**
+
+* [x] Spoerer et al (2017) - Recurrent Convolutional NNs: A Better Model of Biological Object Recognition 
 
 **2017-07**
 
