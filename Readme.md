@@ -10,11 +10,19 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
+
+## Meta-Learning
+
+**2019-03**
+
+* [x] Finn et al (2017) - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+
+
 ## Multi-Agent RL
 
 **2018-01**
 
-* [ ] Das et al (2019) - TarMAC: Targeted Multi-Agent Communication
+* [x] Das et al (2019) - TarMAC: Targeted Multi-Agent Communication
 * [x] Hausknecht and Stone (2015) - Deep Recurrent Q-Learning for POMDPs
 
 **2018-11**
@@ -136,7 +144,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2019-03**
 
-* [x] Spoerer et al (2017) - Recurrent Convolutional NNs: A Better Model of Biological Object Recognition 
+* [x] Spoerer et al (2017) - Recurrent Convolutional NNs: A Better Model of Biological Object Recognition
 
 **2017-07**
 
