@@ -15,8 +15,9 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2019-03**
 
-* [x] Andrychowicz et al (2016) - Learning to learn by gradient descent by gradient descent
-* [x] Finn et al (2017) - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+* [x] [Finn et al (2018) - Probabilistic Model-Agnostic Meta-Learning](Meta-Learning/Finn_2018.md)
+* [x] [Andrychowicz et al (2016) - Learning to learn by gradient descent by gradient descent](Meta-Learning/Andrychowicz_2016.md)
+* [x] [Finn et al (2017) - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](Meta-Learning/Finn_2017.md)
 
 
 ## Multi-Agent RL
