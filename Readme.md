@@ -11,13 +11,17 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
 
-## Meta-Learning
+## Meta-Learning & Transfer Learning & Continual Learning
+
+**2019-07**
+
+* [x] [Bengio et al (2019) - A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](Meta-Learning/2019_Bengio.key)
 
 **2019-03**
 
-* [x] [Finn et al (2018) - Probabilistic Model-Agnostic Meta-Learning](Meta-Learning/Finn_2018.md)
-* [x] [Andrychowicz et al (2016) - Learning to learn by gradient descent by gradient descent](Meta-Learning/Andrychowicz_2016.md)
-* [x] [Finn et al (2017) - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](Meta-Learning/Finn_2017.md)
+* [x] [Finn et al (2018) - Probabilistic Model-Agnostic Meta-Learning](Meta-Learning/2018_Finn.md)
+* [x] [Andrychowicz et al (2016) - Learning to learn by gradient descent by gradient descent](Meta-Learning/2016_Andrychowicz.md)
+* [x] [Finn et al (2017) - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](Meta-Learning/2017_Finn.md)
 
 
 ## Multi-Agent RL
@@ -142,7 +146,11 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 
 
-## Deep Learning
+## Deep Learning (Application + Theory)
+
+**2019-06**
+
+* [ ] Morcos et al (2018) - Insights on representational similarity in neural networks with canonical correlation
 
 **2019-03**
 
