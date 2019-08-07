@@ -11,11 +11,13 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
 
-## Meta-Learning & Transfer Learning & Continual Learning
+## Reading Group TU: Meta-Learning & Transfer Learning & Continual Learning
 
-**2019-07**
+| Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
+| ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
+:fire: #2 - 08/19 | Nayebi et al. - Task-Driven Convolutional Recurrent Models of the Visual System | 2018 | RNNs | NeuRIPS | [Click](https://arxiv.org/pdf/1807.00053.pdf) | [Click](ReadingGroupTU/2018_Nayebi_pres.pdf)
+:fire: #1 - 07/19 | Bengio et al. - A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms | 2019 | Meta | ArXiv | [Click](https://arxiv.org/abs/1901.10912) | [Click](ReadingGroupTU/2019_Bengio_pres.pdf)
 
-* [x] [Bengio et al (2019) - A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](Meta-Learning/2019_Bengio.key)
 
 **2019-03**
 

@@ -1,3 +1,6 @@
 .DS_Store
 *.pdf
+*.key
 plain.md
+!2018_Nayebi_pres.pdf
+!2019_Bengio_pres.pdf
