@@ -10,6 +10,11 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
+## Theory of Deep Learning
+| Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
+| ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
+:fire: #1 - 08/19 | Frankle & Carbin - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks | 2019 | Initialization | ICLR | [Click](https://arxiv.org/abs/1803.03635) | [Click](Theory-of-DL/2019_Frankle.md)
+
 
 ## Reading Group TU: Meta-Learning & Transfer Learning & Continual Learning
 
