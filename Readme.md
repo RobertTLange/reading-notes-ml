@@ -14,6 +14,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 | Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
 | ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
 :fire: #1 - 08/19 | Frankle & Carbin - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks | 2019 | Initialization | ICLR | [Click](https://arxiv.org/abs/1803.03635) | [Click](Theory-of-DL/2019_Frankle.md)
+:fire: #2 - 08/19 | Frankle et al. - Stabilizing The Lottery Ticket Hypothesis | 2019 | Initialization | ArXiv | [Click](https://arxiv.org/abs/1903.01611) | [Click](Theory-of-DL/2019b_Frankle.md)
 
 
 ## Reading Group TU: Meta-Learning & Transfer Learning & Continual Learning
