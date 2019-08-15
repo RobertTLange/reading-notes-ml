@@ -13,21 +13,11 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 ## Hyperparameter Optimization
 | Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
 | ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
-:fire: #2 - 08/19 | Li et al. - A Generalized Framework for Population Based Training | 2019 | PBT | ArXiv | [Click](https://arxiv.org/abs/1902.01894) | [Click](Hyperparam-Opt/2019_Li.md)
-:fire: #1 - 08/19 | Jaderberg et al. - Population Based Training of Neural Networks | 2017 | PBT | ArXiv | [Click](https://arxiv.org/abs/1711.09846) | [Click](Hyperparam-Opt/2017_Jaderberg.md)
-
-
-## Theory of Deep Learning
-| Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
-| ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
-:fire: #2 - 08/19 | Frankle et al. - Stabilizing The Lottery Ticket Hypothesis | 2019 | Initialization | ArXiv | [Click](https://arxiv.org/abs/1903.01611) | [Click](Theory-of-DL/2019b_Frankle.md)
-:fire: #1 - 08/19 | Frankle & Carbin - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks | 2019 | Initialization | ICLR | [Click](https://arxiv.org/abs/1803.03635) | [Click](Theory-of-DL/2019_Frankle.md)
-
-
-## Reading Group TU: Meta-Learning & Transfer Learning & Continual Learning
-
-| Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
-| ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
+:fire: #6 - 08/19 | Collins et al. - Capacity and Trainability in Recurrent Neural Networks | 2017 | RNNs | ICLR | [Click](https://arxiv.org/abs/1611.09913) | [Click](Theory-of-DL/2017_Collins.md)
+:fire: #6 - 08/19 | Li et al. - A Generalized Framework for Population Based Training | 2019 | PBT | ArXiv | [Click](https://arxiv.org/abs/1902.01894) | [Click](Hyperparam-Opt/2019_Li.md)
+:fire: #5 - 08/19 | Jaderberg et al. - Population Based Training of Neural Networks | 2017 | PBT | ArXiv | [Click](https://arxiv.org/abs/1711.09846) | [Click](Hyperparam-Opt/2017_Jaderberg.md)
+:fire: #4 - 08/19 | Frankle et al. - Stabilizing The Lottery Ticket Hypothesis | 2019 | Initialization | ArXiv | [Click](https://arxiv.org/abs/1903.01611) | [Click](Theory-of-DL/2019b_Frankle.md)
+:fire: #3 - 08/19 | Frankle & Carbin - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks | 2019 | Initialization | ICLR | [Click](https://arxiv.org/abs/1803.03635) | [Click](Theory-of-DL/2019_Frankle.md)
 :fire: #2 - 08/19 | Nayebi et al. - Task-Driven Convolutional Recurrent Models of the Visual System | 2018 | RNNs | NeuRIPS | [Click](https://arxiv.org/pdf/1807.00053.pdf) | [Click](ReadingGroupTU/2018_Nayebi_pres.pdf)
 :fire: #1 - 07/19 | Bengio et al. - A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms | 2019 | Meta | ArXiv | [Click](https://arxiv.org/abs/1901.10912) | [Click](ReadingGroupTU/2019_Bengio_pres.pdf)
 
