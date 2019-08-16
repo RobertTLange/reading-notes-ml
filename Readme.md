@@ -13,7 +13,8 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 ## Hyperparameter Optimization
 | Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
 | ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
-:fire: #6 - 08/19 | Collins et al. - Capacity and Trainability in Recurrent Neural Networks | 2017 | RNNs | ICLR | [Click](https://arxiv.org/abs/1611.09913) | [Click](Theory-of-DL/2017_Collins.md)
+:fire: #8 - 08/19 | Jacot et al. - Neural Tangent Kernel: Convergence and Generalization in Neural Networks | 2018 | Theory of DL | NeuRIPS | [Click](https://arxiv.org/abs/1806.07572) | [Click](Theory-of-DL/2018_Jacot.md)
+:fire: #7 - 08/19 | Collins et al. - Capacity and Trainability in Recurrent Neural Networks | 2017 | RNNs | ICLR | [Click](https://arxiv.org/abs/1611.09913) | [Click](Theory-of-DL/2017_Collins.md)
 :fire: #6 - 08/19 | Li et al. - A Generalized Framework for Population Based Training | 2019 | PBT | ArXiv | [Click](https://arxiv.org/abs/1902.01894) | [Click](Hyperparam-Opt/2019_Li.md)
 :fire: #5 - 08/19 | Jaderberg et al. - Population Based Training of Neural Networks | 2017 | PBT | ArXiv | [Click](https://arxiv.org/abs/1711.09846) | [Click](Hyperparam-Opt/2017_Jaderberg.md)
 :fire: #4 - 08/19 | Frankle et al. - Stabilizing The Lottery Ticket Hypothesis | 2019 | Initialization | ArXiv | [Click](https://arxiv.org/abs/1903.01611) | [Click](Theory-of-DL/2019b_Frankle.md)
