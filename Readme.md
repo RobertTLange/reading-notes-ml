@@ -10,9 +10,9 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
 
-## Hyperparameter Optimization
 | Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
 | ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
+:fire: #9 - 08/19 | Flennerhag et al. -  Transferring Knowledge across Learning Processes| 2019 | Meta-Learning | ICLR | [Click](https://arxiv.org/abs/1812.01054) | [Click](ReadingGroupTU/2019_Flennerhag_pres.pdf)
 :fire: #8 - 08/19 | Jacot et al. - Neural Tangent Kernel: Convergence and Generalization in Neural Networks | 2018 | Theory of DL | NeuRIPS | [Click](https://arxiv.org/abs/1806.07572) | [Click](Theory-of-DL/2018_Jacot.md)
 :fire: #7 - 08/19 | Collins et al. - Capacity and Trainability in Recurrent Neural Networks | 2017 | RNNs | ICLR | [Click](https://arxiv.org/abs/1611.09913) | [Click](Theory-of-DL/2017_Collins.md)
 :fire: #6 - 08/19 | Li et al. - A Generalized Framework for Population Based Training | 2019 | PBT | ArXiv | [Click](https://arxiv.org/abs/1902.01894) | [Click](Hyperparam-Opt/2019_Li.md)
