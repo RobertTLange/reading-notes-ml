@@ -12,6 +12,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 | Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
 | ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
+:fire: #10 - 08/19 | Baydin et al. - Automatic Differentiation in Machine Learning: a Survey | Autodiff | JMLR | [Click](http://www.jmlr.org/papers/volume18/17-468/17-468.pdf) | [Click](Optimization/2018_Baydin.pdf)
 :fire: #9 - 08/19 | Flennerhag et al. -  Transferring Knowledge across Learning Processes| 2019 | Meta-Learning | ICLR | [Click](https://arxiv.org/abs/1812.01054) | [Click](ReadingGroupTU/2019_Flennerhag_pres.pdf)
 :fire: #8 - 08/19 | Jacot et al. - Neural Tangent Kernel: Convergence and Generalization in Neural Networks | 2018 | Theory of DL | NeuRIPS | [Click](https://arxiv.org/abs/1806.07572) | [Click](Theory-of-DL/2018_Jacot.md)
 :fire: #7 - 08/19 | Collins et al. - Capacity and Trainability in Recurrent Neural Networks | 2017 | RNNs | ICLR | [Click](https://arxiv.org/abs/1611.09913) | [Click](Theory-of-DL/2017_Collins.md)
