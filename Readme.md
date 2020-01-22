@@ -12,7 +12,8 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 | Read / Notes  | Title  & Author  | Year  | Category | Conference | Paper  |  Notes |
 | ------ |:-------------:|  :-----:| :-----:|  :-----:| :-----:|:-----:|
-:fire: #12 - 12/19 | Geier & Ha - Weight Agnostic Neural Networks | 2019 | NAS | NeuRIPS | [Click](https://arxiv.org/abs/1906.04358) | [Click](ReadingGroupTU/2019_Geier.md)
+:fire: #13 - 01/20 | Merel et al. - Deep Neuroethology of a Virtual Rodent | 2020 | DRL-Neuro | ICLR | [Click](https://arxiv.org/abs/1911.09451) | [Click](ReadingGroupTU/2019_Merel_pres.pdf)
+:fire: #12 - 12/19 | Gaier & Ha - Weight Agnostic Neural Networks | 2019 | NAS | NeuRIPS | [Click](https://arxiv.org/abs/1906.04358) | [Click](ReadingGroupTU/2019_Geier.md)
 :fire: #11 - 11/19 | Kümmerer et al. - Saliency Benchmarking made easy: Separating models, maps and metrics | 2018 | Saliency | EECV | [Click](http://openaccess.thecvf.com/content_ECCV_2018/html/Matthias_Kummerer_Saliency_Benchmarking_Made_ECCV_2018_paper.html) | [Click](Vision/2018_Kuemmerer.md)
 :fire: #10 - 08/19 | Baydin et al. - Automatic Differentiation in Machine Learning: a Survey | 2018 | Autodiff | JMLR | [Click](http://www.jmlr.org/papers/volume18/17-468/17-468.pdf) | [Click](Optimization/2018_Baydin.md)
 :fire: #9 - 08/19 | Flennerhag et al. -  Transferring Knowledge across Learning Processes| 2019 | Meta-Learning | ICLR | [Click](https://arxiv.org/abs/1812.01054) | [Click](ReadingGroupTU/2019_Flennerhag_pres.pdf)
